@@ -1,1 +1,1 @@
-# loft-montana
+# Loft Montana
